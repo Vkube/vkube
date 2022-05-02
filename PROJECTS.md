@@ -17,3 +17,7 @@
 [Github](https://github.com/Vkube/FreeCodeCamp/tree/master/Tribute%20Page)
 * Frontend Project
 [Github](https://github.com/Vkube/frontend-project-lvl1)
+* Mortal combat game
+[demo](http://mortalcombat.surge.sh/)
+[Github](https://github.com/Vkube/marathon)
+
