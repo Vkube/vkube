@@ -8,4 +8,6 @@
 <code>📦 Tech stack: node.js, .Net</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@vkube](https://telegram.me/vkube)</code>
-<code>📫 [email](mailto:hi.drozdov@gmail.com)</code>
+<code>📫 [email](mailto:hi.drozdov@gmail.com)</code><br>
+
+<img src="https://www.codewars.com/users/vkube/badges/small"/>
