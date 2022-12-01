@@ -2,6 +2,9 @@
 * Cognitive layout 
 [demo](http://cognitiveproject.surge.sh/)
 [Github](https://github.com/Vkube/Cognitive.biases-layout)
+* GloevskShop layout 
+[demo](https://vkube.github.io/gloevkshop/)
+[Github](https://github.com/Vkube/gloevkshop)
 * Monster_rodolex
 [demo](http://monster-rodolex.surge.sh/)
 [Monster](https://github.com/Vkube/monster_rodolex)
