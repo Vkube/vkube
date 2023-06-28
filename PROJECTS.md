@@ -28,5 +28,7 @@
 [Github](https://github.com/Vkube/pizza-food.delivery)
 * Devil-corp-console-game-tools
 [Gitlab](https://gitlab.com/devil-game-tools/devil-corp-console-game-tools)
-
+* Random_Quote_Machine
+[demo](https://3nlxhr-3000.csb.app/)
+[Github](https://github.com/Vkube/Random_Quote_Machine/)
 
